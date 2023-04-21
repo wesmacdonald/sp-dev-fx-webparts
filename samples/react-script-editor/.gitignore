@@ -33,3 +33,6 @@ obj
 
 # Release folder
 release
+
+# .heft file
+.heft

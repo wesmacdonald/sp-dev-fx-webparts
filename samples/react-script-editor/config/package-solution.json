@@ -13,6 +13,28 @@
             "termsOfUseUrl": "",
             "websiteUrl": "",
             "mpnId": ""
+        },
+        "features": [
+          {
+            "title": "pnp-script-editor ScriptEditorWebPart Feature",
+            "description": "The feature that activates ScriptEditorWebPart from the pnp-script-editor solution.",
+            "id": "3a328f0a-99c4-4b28-95ab-fe0847f657a3",
+            "version": "1.0.21.0",
+            "componentIds": [
+              "3a328f0a-99c4-4b28-95ab-fe0847f657a3"
+            ]
+          }
+        ],
+        "metadata": {
+          "shortDescription": {
+            "default": "pnp-script-editor description"
+          },
+          "longDescription": {
+            "default": "pnp-script-editor description"
+          },
+          "screenshotPaths": [],
+          "videoUrl": "",
+          "categories": []
         }
     },
     "paths": {
